@@ -1,0 +1,11 @@
+# Ignore the virtual environment and local packages
+offline_env/
+local_packages/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore personal system files
+.DS_Store
+.vscode/
